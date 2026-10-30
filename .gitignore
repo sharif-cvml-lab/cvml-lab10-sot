@@ -6,3 +6,4 @@ venv/
 .vscode/
 *.log
 .DS_Store
+assets/models/mixformer_v2.onnx

@@ -1,5 +1,5 @@
 from __future__ import annotations
-
+import onnxruntime as ort
 import sys
 
 from gui import AppWindow, create_application
