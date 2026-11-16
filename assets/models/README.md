@@ -11,7 +11,8 @@ Put an ONNX export of MixFormerV2 here as
 assets/models/mixformer_v2.onnx
 ```
 
-Download link: https://my.sharif.edu/s/LcJXJtSKDa93HgB
+Download link1: https://my.sharif.edu/s/LcJXJtSKDa93HgB
+Download link2: https://drive.google.com/file/d/1ADkZF9QXT5ctH4VVV02-Th2NRjaUGPDi/view?usp=sharing
 
 ## VitTrack
 
